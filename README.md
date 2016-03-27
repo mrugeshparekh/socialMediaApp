@@ -6,7 +6,7 @@ To install this project please follow below instructions
 1) Please install four basic technologies on your machine like **MongoDB**, **ExpressJs**, **AngularJs**, **NodeJs** and **gulp**.  
 2) Clone my repo  
 3) Install all dependency using **npm install** command  
-4) Run the gulp task css using **gulp css** command
+4) Run the gulp task css using **gulp css** command  
 5) Run the gulp task dev using **gulp dev** command  
 6) Type http://localhost:3000/ in your browser to add post  
 
